@@ -1,0 +1,11 @@
+name = "whisper-worker"
+main = "src/worker.js"
+compatibility_date = "2025-01-07"
+workers_dev = true
+nodejs_compat = true
+account_id = "15d816f9860d7764ccb5644d673f09ee"
+
+[ai]
+binding = "AI"
+
+
